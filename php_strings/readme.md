@@ -12,6 +12,8 @@ Baseado no curso da Alura - _PHP Strings: manipulando textos com PHP._
 - Recuperando uma substring.
 - Verificação de Posição de Strings.
 - Verificando o Tamanho de uma String.
+- Separação e União de Strings, com e sem Array.
+- Aparando pontas de strings.
 
 ### Caderno de Anotações no Notion 🐘
 [PHP STRING](https://extreme-octopus-ecb.notion.site/PHP-Strings-80034467c10845a9b782ef084695e5a7)
