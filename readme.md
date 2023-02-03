@@ -13,3 +13,11 @@ Todas as pastas contém um link para anotações no notion. São esses os cursos
 - **PHP: conceitos, lidando com dados, loops e mais**.
 - **Avançando com PHP: Arrays, Strings, Função e Web**.
 - **PHP String**.
+
+## **Contatos e Links interessantes**
+ <div>
+   <a href="mailto:pedro.viniciusacm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://wa.me/5581992874343" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="https://www.behance.net/pedrofelixg" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+   <a href="www.linkedin.com/in/pedrofelixgonçalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ </div>
